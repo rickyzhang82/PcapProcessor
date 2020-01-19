@@ -1,7 +1,9 @@
 What
 =====
 
+This application is used for deep packet inspection research project. It cleans up packet data collected by [PacketSorter](https://github.com/rickyzhang82/PacketSorter).
 
+It requires TCP packet sorting feature from [my forked PcapPlusPlus repository](https://github.com/rickyzhang82/PcapPlusPlus). 
 
 How
 ====
